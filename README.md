@@ -1,6 +1,6 @@
 # Ishwari Bhoyar
 
-**Building governance-grade AI systems that bridge intelligence, infrastructure, and accountability.**
+**AI systems that bridge intelligence, infrastructure, and accountability.**
 
 ---
 
