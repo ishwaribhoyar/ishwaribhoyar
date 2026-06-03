@@ -37,38 +37,6 @@ AI-powered compliance and regulatory intelligence platform built for AICTE & UGC
 
 ---
 
-### Iveri Quest — *Multi-Model AI Benchmarking Platform*
-
-A structured evaluation platform for comparing reasoning depth, tone calibration, and factual accuracy across multiple AI models. Features a custom evaluation framework, session-tracked conversation flows, and side-by-side model comparison with granular scoring.
-
-**Focus:** AI evaluation methodology, benchmark design, model behavior analysis
-
----
-
-### Swasthya — *Full-Stack Healthcare Ecosystem*
-
-End-to-end healthcare platform built as a Progressive Web App — integrating appointment management, emergency services, an AI-powered health assistant, medicine reminders, and real-time health monitoring. Architected the complete system design and AI integration layer.
-
-**Focus:** System architecture, AI assistant design, healthcare UX, PWA engineering
-
----
-
-### Iveri-AI — *Voice-Controlled AI Assistant*
-
-An intelligent voice assistant combining speech recognition, natural language understanding, system-level command execution, and conversational AI. Built the full command-processing pipeline and system interaction architecture.
-
-**Focus:** Speech-to-action pipelines, system control logic, conversational design
-
----
-
-### TechMentorX — *AI-Powered Coding Assistant*
-
-A natural language-driven coding platform for code generation, review, and developer guidance. Designed the frontend experience and built the AI interaction logic powering real-time code assistance.
-
-**Focus:** LLM-powered code generation, developer tooling, interaction design
-
----
-
 ## Achievements & Recognition
 
 - **Smart India Hackathon 2025** — Grand Finale, Top 5 National (among 50,000+ teams)
