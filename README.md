@@ -186,6 +186,8 @@ I am an **SIH 2025 Grand Finalist (1st Runner-Up / Top 5 Nationally)** and a sta
 ### 🩺 [Clinic-lens AI — Medical Workstation](https://github.com/ishwaribhoyar/Clinic-lens-AI.git)
 > **Enterprise Medical Report Intelligence & Diagnostic Workstation**
 >
+> 🥉 **CODEX Hackfest 2026 — 2nd Runner-Up (State Level)**
+>
 > 🔬 **Dual OCR (Sarvam Vision + PyMuPDF) · 8+ Diagnostic Panels Normalized**
 >
 > 7-phase clinical AI pipeline combining multi-page document ingestion, physiological panic alert detection, longitudinal biomarker tracking, and report-scoped GPT-5 Nano assistant wrapped in safety firewalls.
@@ -388,6 +390,7 @@ I am an **SIH 2025 Grand Finalist (1st Runner-Up / Top 5 Nationally)** and a sta
 | Recognition | Organization / Context | Distinction |
 |:---|:---|:---|
 | **Smart India Hackathon 2025** | Ministry of Education & AICTE (500+ teams) | 🏆 **Grand Finale — 1st Runner Up (Top 5 National)** |
+| **CODEX Hackfest 2026** | State-Level Flagship Hackathon | 🥉 **2nd Runner-Up** (Clinic-lens AI — 5-Organ Medical Workstation) |
 | **TechSprint 2026** | GDG On Campus & IEEE (100+ teams) | 🥈 **1st Runner-Up** (Explainable AI Accreditation Tool) |
 | **Patent Gems of Vidarbha 2025** | PIC 2025 (Advantage Vidarbha) | 🎖️ **State Winner**, Felicitated by Hon. Nitin Gadkari |
 | **Featured in *Advantage Vidarbha*** | Published Compendium on Regional Innovation | 📖 Documented for pioneering contributions in applied AI |
