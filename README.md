@@ -4,7 +4,7 @@
 
 # Ishwari Bhoyar
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Applied+AI+Developer+%26+Systems+Architect;Hybrid+Retrieval+%26+RAG+Pipeline+Specialist;Document+Intelligence+%26+Backend+AI+Systems;SIH+2025+Grand+Finalist+(1st+Runner+Up);Creator+of+IntelliRAG+%26+Smart+Approval+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=AI+Developer+%26+Systems+Architect;Hybrid+Retrieval+%26+RAG+Pipeline+Specialist;Document+Intelligence+%26+Backend+AI+Systems;SIH+2025+Grand+Finalist+(1st+Runner+Up);Creator+of+IntelliRAG+%26+Smart+Approval+AI" alt="Typing SVG" /></a>
 
 **Applied AI Engineer | Hybrid Retrieval & RAG Pipelines | Document Intelligence Systems | SIH '25 Grand Finalist (1st Runner-Up)**
 
@@ -28,7 +28,7 @@
 
 ## <span style="color:#58a6ff">About</span>
 
-I am an **Applied AI Developer and Systems Engineer** pursuing my B.Tech in Information Technology at Priyadarshini College of Engineering, Nagpur (2023–2027). My technical focus centers on **Hybrid Retrieval-Augmented Generation (RAG)**, **Intelligent Document Processing (IDP)**, and **deterministic AI systems** that solve mission-critical real-world problems with quantifiable reliability.
+I am an **AI Developer and Systems Engineer** pursuing my B.Tech in Information Technology at Priyadarshini College of Engineering, Nagpur (2023–2027). My technical focus centers on **Hybrid Retrieval-Augmented Generation (RAG)**, **Intelligent Document Processing (IDP)**, and **deterministic AI systems** that solve mission-critical real-world problems with quantifiable reliability.
 
 Rather than treating AI as a black box of prompt wrappers, I treat it as an **engineering discipline**. My work tackles the core bottlenecks that prevent generative AI from succeeding in high-stakes institutional workflows:
 - **Retrieval Precision & Recall:** Designing multi-stage hybrid search engines combining dense semantic vector embeddings (FAISS) with sparse lexical keywords (BM25) fused via Reciprocal Rank Fusion (RRF).
