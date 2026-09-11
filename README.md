@@ -398,25 +398,6 @@ I am an **SIH 2025 Grand Finalist (1st Runner-Up / Top 5 Nationally)** and a sta
 | **Computsav 2025** | Regional Technical Conclave | 🥈 **2nd Prize** in both Paper & Project Contests |
 | **11+ National Hackathon Victories** | National Technical Competitions (2024–2025) | 🏅 Multiple 1st / 2nd podium finishes across India |
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <span style="color:#58a6ff">GitHub Stats</span>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishwaribhoyar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwaribhoyar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaribhoyar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwaribhoyar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
-
-</div>
 
 ---
 
